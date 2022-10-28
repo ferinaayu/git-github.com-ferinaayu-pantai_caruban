@@ -1,6 +1,6 @@
 # semilir
-Dwi Krisnandi
-3.34.21.3.08
+Ferina Ayu Fella Puspita
+3.34.21.3.11
 IK-2D
 ## Pertemuan ke 8
-![alt text](https://user-images.githubusercontent.com/116879948/198557990-d18141d7-1d04-4eec-958d-376b2d609a48.png)
+![Capture tempat wisata](https://user-images.githubusercontent.com/116274566/198708869-54830034-ae93-41dd-829e-9bd421856908.JPG)
